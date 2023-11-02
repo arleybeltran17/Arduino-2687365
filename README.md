@@ -12,6 +12,8 @@ pero si se da otro giro ambos pines quedan sin voltaje, pero si se vuelve a dar 
 Sí giramos en sentido antihorario se repetiría lo mismo, pero al revés ya que empezaría por el pin B y terminaría con el pin A,
 cuando giramos en sentido antihorario disminuye de 1 en 1 dependiendo la cantidad de campos.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Hecho por: Joel Sebastian Rondon Pava Y Hector Arley Beltran Rubio
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
