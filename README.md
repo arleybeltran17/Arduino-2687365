@@ -1,5 +1,4 @@
-# Arduino-2687365
-Lo que comprendimos del video fue: 
+# Arduino-2687365 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 El codificador rotatorio estaría conectado a la placa de Arduino en la cual irían conectados un pin A Y un pin B cabe recalcar que ambos pines tienen un voltaje alto ya predeterminado, 
 el pin c que sería el codificador rotatorio que, en forma de engranaje, hará contacto con los pines A y B, que a su vez estaría conectado en el gnd, 
